@@ -12,4 +12,4 @@ Component List
 * SparkFun BlueSMIRF Silver bluetooth  receiver (https://www.sparkfun.com/products/12577)
 
 Links  
-[Video Demonstration](https://www.dropbox.com/s/wbgh0z3rslg0sky/AnimationStation.mp4?dl=0 "Animation Station")
+[Video Demonstration](https://drive.google.com/file/d/1ZZovOZLmHou-Uql_OFQhJ2q_ImjNxoaI/view?usp=sharing "Animation Station")
